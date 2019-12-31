@@ -1,7 +1,8 @@
 # 📦 Webpack Boilerplate
 
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg)](http://www.wtfpl.net/)
-(https://img.shields.io/david/dev/taniarascia/webpack-boilerplate)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg)](http://www.wtfpl.net/) 
+![David](https://img.shields.io/david/dev/sandikoprastyo/webpack-boilerplate)
+
 Boilerplate with Webpack, Babel, Sass, React.
 
 ## Installation
