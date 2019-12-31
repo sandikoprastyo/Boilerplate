@@ -8,8 +8,6 @@ Boilerplate with Webpack, Babel, Sass, React.
 ## Installation
 
 ```
-mkdir boilerplate
-cd boilerplate
 git clone https://github.com/sandikoprastyo/Boilerplate.git
 ```
 
