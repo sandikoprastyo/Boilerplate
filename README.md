@@ -54,9 +54,8 @@ npm run build
 - [`html-loader`](https://webpack.js.org/loaders/html-loader/)
 
 ### Plugins
-- [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) - Generate HTML files from template.
-- [`mini-css-extract-plugin`](https://github.com/webpack-contrib/mini-css-extract-plugin) - Extract CSS into separate files.
-
+- [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
+- [`mini-css-extract-plugin`](https://github.com/webpack-contrib/mini-css-extract-plugin)
 
 ## Author
 - [Sandiko prastyo](https://sandikoprastyo.herokuapp.com)
