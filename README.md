@@ -6,11 +6,13 @@
 Boilerplate with Webpack, Babel, Sass, React.
 
 ## Installation
-
 ```
 git clone https://github.com/sandikoprastyo/Boilerplate.git
 ```
-
+## Installation package run yarn or npm
+```
+yarn install
+```
 ## Usage
 
 ### Development server
