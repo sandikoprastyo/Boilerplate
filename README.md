@@ -18,14 +18,16 @@ yarn install
 ### Development server
 
 ```bash
-npm run start:dev
+yarn start:dev
 ```
 
 ### Production build
 
 ```bash
-npm run build
+yarn build
 ```
+### Running server
+[server running](http://localhost:8080/)
 
 ## Features
 
