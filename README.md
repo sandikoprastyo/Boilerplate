@@ -1,7 +1,6 @@
 # 📦 Webpack Boilerplate
 
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg)](http://www.wtfpl.net/) 
-![David](https://img.shields.io/david/dev/sandikoprastyo/webpack-boilerplate)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-blue.svg)](http://www.wtfpl.net/)![David](https://img.shields.io/david/dev/sandikoprastyo/webpack-boilerplate)
 
 Boilerplate with Webpack, Babel, Sass, React.
 
@@ -64,5 +63,3 @@ yarn build
 ## Author
 - [Sandiko prastyo](https://sandikoprastyo.herokuapp.com)
 
-## License
-This project is open source and available under the [WTFPL License](LICENSE).
