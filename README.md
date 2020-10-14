@@ -61,5 +61,5 @@ yarn build
 - [`mini-css-extract-plugin`](https://github.com/webpack-contrib/mini-css-extract-plugin)
 
 ## Author
-- [Sandiko prastyo](https://sandikoprastyo.herokuapp.com)
+- [Sandiko prastyo](https://sandikoprastyo.netlify.app)
 
